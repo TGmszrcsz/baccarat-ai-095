@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：复查实践
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 094 篇 - 百家乐Ai预测分析工具：连续运行一段时间后怎样做阶段复盘](https://github.com/TGmszrcsz/baccarat-ai-094) ｜ [下一篇：第 096 篇 - 百家乐Ai预测分析工具：把一张截图整理成可追溯的说明材料](https://github.com/TGmszrcsz/baccarat-ai-096)
+
+<!-- article-chain:end -->
+
 整份报表有差额，却不知道应从哪一段历史找起。本篇围绕“发现统计对不上时从最小范围开始排查”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
